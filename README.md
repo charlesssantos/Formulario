@@ -6,4 +6,4 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-Projeto de um formulário feito com PHP utilizando o framework para criar a API e fazer a ligação com o banco de dados.
+Projeto de um formulário feito com PHP utilizando o framework Laravel para criar a API e fazer a ligação com o banco de dados.
